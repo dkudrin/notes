@@ -1,0 +1,1 @@
+i10n строк в приложениях (JavaScript) https://habrahabr.ru/post/279595/
